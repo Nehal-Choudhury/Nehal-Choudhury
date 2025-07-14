@@ -74,18 +74,23 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="47" height="35" alt="tryhackme logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo"  />
+  <a href="https://tryhackme.com/p/godzillaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="47" height="35" alt="tryhackme logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nehal-choudhury08/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/nehal.choudhury8" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.behance.net/nehalchoudhury1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance logo"  />
+  </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nehal-Choudhury/Nehal-Choudhury/output/snake.svg" alt="Snake animation" />
+<p align="left">CEH | CTF Player | TryHackMe | OSINT | Cybersecurity Enthusiast | Jr Penetration Tester | DFE | NDE | Front End Web Developer | Photographer | Editor | Tech Enthusiast<br><br>A dedicated cybersecurity professional with a passion for protecting digital assets. Equipped certifications in cybersecurity, I am currently honing my skills at NSU. My previous experience in photography has honed my attention to detail and ability to capture the essence of a situation. I am eager to apply my technical expertise and creative problem-solving abilities to secure organizations and prevent cyber threats.</p>
 
 ###
 
