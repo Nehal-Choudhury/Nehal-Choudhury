@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is MD. Mahbubul Bashar Choudhury and I'm a Certified Ethical Hacker, from Bangladesh</h2>
 
-<div><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4767192" style='border:none;'></iframe>
-</div>
+
 
 ###
 
