@@ -93,7 +93,7 @@
 
 ###
 
-<p align="left">CEH | CTF Player | TryHackMe | OSINT | Cybersecurity Enthusiast | Jr Penetration Tester | DFE | NDE | Front End Web Developer | Photographer | Editor | Tech Enthusiast<br><br>A dedicated cybersecurity professional with a passion for protecting digital assets. Equipped certifications in cybersecurity, I am currently honing my skills at NSU. My previous experience in photography has honed my attention to detail and ability to capture the essence of a situation. I am eager to apply my technical expertise and creative problem-solving abilities to secure organizations and prevent cyber threats.</p>
+<p align="left">CEH | CTF Player | OSINT | Cybersecurity Enthusiast | Jr Penetration Tester | Front End Web Developer | Photographer | Editor | Tech Enthusiast<br><br>A dedicated cybersecurity professional with a passion for protecting digital assets. Equipped certifications in cybersecurity, I am currently honing my skills at NSU. My previous experience in photography has honed my attention to detail and ability to capture the essence of a situation. I am eager to apply my technical expertise and creative problem-solving abilities to secure organizations and prevent cyber threats.</p>
 
 ###
 
